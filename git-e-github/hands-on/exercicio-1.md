@@ -1,6 +1,4 @@
----
-description: 'Exercício para você praticar :)'
----
+
 
 # Exercício 1
 
