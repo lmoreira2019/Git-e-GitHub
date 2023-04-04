@@ -1,7 +1,4 @@
----
-description: >
-  Este é um curso básico sobre Git e GitHub
----
+
 
 #  Instalando o Git no computador
 
